@@ -29,5 +29,3 @@ This repository contains solutions for the TypeScript challenges from **Module 4
    ts-node-dev --respawn --transpile-only problem-6.ts
    ```
    This will allow you to see the search results or outputs directly in the console.
-```
- 
